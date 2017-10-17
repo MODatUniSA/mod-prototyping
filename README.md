@@ -2,7 +2,7 @@
 
 A repository for documentation, instructions, and time spent on prototyping projects at [MOD.](https://mod.org.au)
 
-* [Project name (platform)](#)
+* [Draw Your Pain (iOS)](https://github.com/MODatUniSA/mod-draw-your-pain)
 
 ## What is MOD. ?
 
