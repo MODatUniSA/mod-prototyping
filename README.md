@@ -1,6 +1,6 @@
 # MOD. prototyping
 
-A repository for documentation, instructions, and time spent on prototyping projects at MOD.
+A repository for documentation, instructions, and time spent on prototyping projects at [MOD.](https://mod.org.au/about/)
 
 * [Project name (platform)](#)
 
